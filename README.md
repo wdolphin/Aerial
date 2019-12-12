@@ -1,4 +1,4 @@
-# Aerial
+
 # Terrace field, Yokoze, Saitama 20190402
 
 横瀬町20190402寺坂棚田からの撮影（©Yayoi.Eguchi/DRONEBIRD/CrisisMappers Japan, CC BY 4.0)
