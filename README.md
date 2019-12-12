@@ -17,3 +17,4 @@ https://map.openaerialmap.org/#/139.10699844360352,35.990368709114314,18/square/
 https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#Mkgg7FsiBOBN
 
 
+![GoogleEarthPro](https://user-images.githubusercontent.com/15658355/70726086-dbbe0f80-1d40-11ea-8bb3-4d7e252cdf43.jpg)
